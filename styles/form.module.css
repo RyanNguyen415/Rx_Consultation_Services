@@ -1,0 +1,93 @@
+#formContainer{
+    padding: 20px;
+    background: rgba(42, 157, 144, 0.411);
+    height: 100vh;
+}
+#formContainer> form{
+    background: #fff;
+    padding: 30px 20px;
+    max-width: 600px;
+    margin: auto;
+    border-radius: 8px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.411);
+}
+
+#header{
+    background: rgba(42, 157, 144, 1);
+    border-radius: 8px;
+    text-align: center;
+    padding: 5px;
+    color: #fff;
+    margin-bottom: 30px;
+}
+
+#question{
+    background: rgba(0, 0, 0, 0.1);
+    padding: 3px 5px;
+    margin: 10px 0px;
+}
+#question> p{
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.711);
+}
+
+#ul{
+    list-style-position: inside;
+    padding-left: 10px;
+}
+#ul li{
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+#decider{
+    padding-left: 20px;
+    margin-bottom: 10px;
+}
+#decider> label{
+    padding: 3px;
+    box-shadow: 0px 0px 3px #000;
+    margin-right:15px ;
+    /* border: 2px solid #000; */
+}
+
+#commentContainer{
+    height: fit-content;
+    width: 100%;
+}
+#commentContainer>label{
+    width: 100%;
+}
+#commentContainer>label>textarea{
+    width: 100%;
+    resize: none;
+    padding: 10px 5px;
+    height: 150px;
+}
+
+#ruleLine{
+    margin: 15px 0;
+}
+
+
+
+#radioList>label{
+    display: block;
+    margin-bottom: 7px;
+}
+#radioList>label>span{
+    margin-left: 10px;
+}
+#submitBtn:disabled{
+    background: grey;
+    color: red;
+}
+
+#submitBtn> button{
+    width: 200px;
+    padding: 5px;
+    font-size: 18px;
+    border: none;
+    background: #264653;
+    color: #fff;
+}

@@ -1,0 +1,182 @@
+[
+    {
+        "items":[
+            {
+                "treatmentName":"Acid Reflux",
+                "productName":"Omeprazole 20mg",
+                "price":90.80,
+                "imageURL":"acid-reflux1.jpg"
+            },
+            {
+                "treatmentName":"Acid Reflux",
+                "productName":"Lansoprazole",
+                "price":110.65,
+                "imageURL":"acid-reflux2.jfif"
+            }
+        ],
+        "name":"ACID REFLUX",   
+        "imageURL":"acid-reflux.jpg",
+        "linkTo":"acid-reflux.html",
+        "id":1
+    },
+    {
+        "items":[
+            {
+                "treatmentName":"Weight Loss",
+                "productName":"ORLOS 60MG (Orlistat) Weight Loss Capsules x 84",
+                "price":20.89,
+                "imageURL":"weight-loss1.png"
+            },
+            {
+                "treatmentName":"Weight Loss",
+                "productName":"Xenical/Orlistat 120mg",
+                "price":20.89,
+                "imageURL":"weight-loss2.jpg"
+            }
+        ],
+        "name":"WEIGHT LOSS",   
+        "imageURL":"weight-loss.jpg",
+        "linkTo":"weight-loss.html",
+        "id":2
+    },
+    {
+        "items":[
+            {
+                "treatmentName":"Erectile Dysfunction",
+                "productName":"Viagra (Sildenafil)",
+                "price":20.89,
+                "imageURL":"erectile-dysfunction1.jpg"
+            },
+            {
+                "treatmentName":"Erectile Dysfunction",
+                "productName":"Sildenafil (Generic Viagra)",
+                "price":20.89,
+                "imageURL":"erectile-dysfunction2.jpg"
+            },
+            {
+                "treatmentName":"Erectile Dysfunction",
+                "productName":"Levitra",
+                "price":20.89,
+                "imageURL":"erectile-dysfunction3.jpg"
+            }
+        ],
+        "name":"ERECTILE DYSFUNCTION",   
+        "imageURL":"erectile-dysfunction.png",
+        "linkTo":"erectile-dysfunction.html",
+        "id":3
+    },
+    {
+        "items":[
+            {
+                "treatmentName":"Asthma",
+                "productName":"Ventolin Evohaler Asthma Inhaler 100mcg",
+                "price":199.95,
+                "imageURL":"asthma-product.jpg"
+            },
+            {
+                "treatmentName":"Asthma",
+                "productName":"Salamol Asthma Inhaler 100mcg",
+                "price":180.95,
+                "imageURL":"salamol-inhaler.jpg"
+            }
+        ],
+        "name":"ASTHMA",   
+        "imageURL":"asthma.jpg",
+        "linkTo":"asthma.html",
+        "id":4
+    },
+    {
+        "items":[
+            {
+                "treatmentName":"Hair Loss",
+                "productName":"Finasteride (Generic Propecia)",
+                "price":545.00,
+                "imageURL":"hair-loss1.jpg"
+            },
+            {
+                "treatmentName":"Hair Loss",
+                "productName":"Regaine For Men Extra Strength Foam 5% (73mls) 1 month supply",
+                "price":435.00,
+                "imageURL":"hair-loss2.jpg"
+            }
+        ],
+        "name":"HAIR LOSS",   
+        "imageURL":"hair-loss.jpg",
+        "linkTo":"hair-loss.html",
+        "id":5
+    },
+    {
+        "items":[
+            {
+                "treatmentName":"Migraine",
+                "productName":"Sumatriptan",
+                "price":180.00,
+                "imageURL":"migraine1.jfif"
+            },
+            {
+                "treatmentName":"Migraine",
+                "productName":"Zolmitriptan",
+                "price":160.99,
+                "imageURL":"migraine2.jpg"
+            }
+        ],
+        "name":"MIGRAINE",   
+        "imageURL":"migraine.jpg",
+        "linkTo":"migraine.html",
+        "id":6
+    },
+    {
+        "items":[
+            {
+                "treatmentName":"Period Delay",
+                "productName":"Norethisterone",
+                "price":20.89,
+                "imageURL":"period-delay.png"
+            }
+        ],
+        "name":"PERIOD DELAY",   
+        "imageURL":"period-delay.jpg",
+        "linkTo":"period-delay.html",
+        "id":7
+    },
+    {
+        "items":[
+            {
+                "treatmentName":"Premature Ejaculation",
+                "productName":"Priligy 30mg (Premature Ejaculation Pills)",
+                "price":480.10,
+                "imageURL":"premature-ejaculation1.jpg"
+            },
+            {
+                "treatmentName":"Premature Ejaculation",
+                "productName":"Priligy 60mg (Premature Ejaculation Pills)",
+                "price":630.78,
+                "imageURL":"premature-ejaculation2.jpg"
+            }
+        ],
+        "name":"PREMATURE EJACULATION",   
+        "imageURL":"premature-ejaculation.jpg",
+        "linkTo":"premature-ejaculation.html",
+        "id":8
+    },
+    {
+        "items":[
+            {
+                "treatmentName":"Acne",
+                "productName":"Duac 5% Gel",
+                "price":20.89,
+                "imageURL":"acne1.jpg"
+            },
+            {
+                "treatmentName":"Acne",
+                "productName":"Acnecide 5% Gel Benzoyl Peroxide - 30g",
+                "price":20.89,
+                "imageURL":"acne2.jfif"
+            }
+        ],
+        "name":"ACNE",   
+        "imageURL":"acne.jpg",
+        "linkTo":"acne.html",
+        "id":9
+    }
+]
