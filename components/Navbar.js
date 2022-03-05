@@ -55,7 +55,7 @@ function Navbar() {
                   alt="rx logo"
                 />
               </div>
-              <p>Pharmacy</p>
+              <p>Ryan's Pharmacy and Consultation</p>
             </div>
           </Link>
           <ul className={styles.ul}>
