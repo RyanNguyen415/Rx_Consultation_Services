@@ -76,7 +76,9 @@ function Treatment({data}) {
     return (
       <div id={styles.mainContent}>
           <aside id={styles.asideContent}>
-              hellow
+              Unable to find the right product? 
+              
+              Please request an in-depth consultation from our experts.
           </aside>
           <main>
               <div id={styles.consultSection}>
