@@ -157,7 +157,7 @@ function Asthma() {
                 )}
                 
             </form> 
-            <button>Submit Form</button>       
+                
         </div>
     )
 }

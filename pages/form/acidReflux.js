@@ -165,7 +165,7 @@ function AcidReflux() {
                 )}
                
             </form>  
-            <button>Submit Form</button>          
+                    
         </div>
     )
 }

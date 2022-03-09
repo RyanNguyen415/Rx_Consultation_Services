@@ -179,7 +179,7 @@ function Migraine() {
                 )}
               
             </form>
-                             <button>Submit Form</button>
+                            
         </div>
     )
 }

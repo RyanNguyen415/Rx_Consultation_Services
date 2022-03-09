@@ -167,7 +167,7 @@ function ErectileDysfunction() {
                 )}
            
             </form>
-            <button>Submit Form</button>
+            
         </div>
     )
 }

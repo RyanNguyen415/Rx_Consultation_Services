@@ -146,7 +146,7 @@ function PeriodDelay() {
                 )}
                 
             </form>
-            <button>Submit Form</button>
+            
         </div>
     )
 }

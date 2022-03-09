@@ -160,7 +160,7 @@ function WeightLoss() {
                 )}
               
             </form>
-            <button>Submit Form</button>
+            
         </div>
     )
 }

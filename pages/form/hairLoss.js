@@ -178,7 +178,7 @@ function HairLoss() {
                 )}
                 
             </form>
-            <button>Submit Form</button>
+         
         </div>
     )
 }
